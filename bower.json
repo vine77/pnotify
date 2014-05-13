@@ -1,0 +1,11 @@
+{
+  "name": "pnotify",
+  "version": "2.0.0",
+  "description": "pNotify component",
+  "keywords": [
+    "pnotify",
+    "component"
+  ],
+  "main": "pnotify.js",
+  "license": "GPL/LGPL/MPL"
+}
